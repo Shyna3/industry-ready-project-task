@@ -4,3 +4,4 @@ matplotlib
 seaborn
 ML
 deep learning
+stats 
